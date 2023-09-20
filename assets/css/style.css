@@ -56,3 +56,12 @@
     font-weight: 400;
     line-height: normal;
 }
+
+
+
+footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #000;
+    color: #fff;
+}
